@@ -87,3 +87,6 @@ ________________________________________
 ├── requirements.txt
 Result log
 └── README.md
+Author
+Caroline Gakii
+MSc. Data Science | Cancer AI Research | Conference speaker
