@@ -16,7 +16,7 @@ ________________________________________
 •	Lay foundation for future deployment or Grad-CAM explainability
 ________________________________________
 🖼️ Dataset
-•	✅ Public cancer histology images
+•	✅ Public gastric cancer histology images
 •	🤁 Preprocessed to 224x224 resolution
 •	📁 Directory structure:
  	organized_gastric/
