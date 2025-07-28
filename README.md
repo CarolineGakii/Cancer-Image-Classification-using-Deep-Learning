@@ -52,7 +52,7 @@ o	EarlyStopping to prevent overfitting
 ________________________________________
 📦 Installation
 1.	Clone the repo:
-git clone https://github.com/yourusername/gastric-cancer-classification.git
+git clone [https://github.com/yourusername/gastric-cancer-classification](https://github.com/CarolineGakii/Cancer-Image-Classification-using-Deep-Learning.git
 cd gastric-cancer-classification
 2.	Create a virtual environment and activate it:
 python -m venv venv
