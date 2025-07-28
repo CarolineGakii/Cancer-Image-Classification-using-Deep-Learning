@@ -85,4 +85,5 @@ ________________________________________
 ├── visualizations/
 │   └── *.png                # Curves & matrices
 ├── requirements.txt
+Result log
 └── README.md
