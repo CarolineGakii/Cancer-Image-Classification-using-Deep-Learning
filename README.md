@@ -1,4 +1,4 @@
-# Gastric-Cancer-Image-Classification-using-Deep-Learning
+# Cancer-Image-Classification-using-Deep-Learning
 This project explores and compares the performance of three convolutional neural network architectures — ResNet50V2, DenseNet121, and CoAtNet — for classifying benign vs. malignant gastric histopathology images.  📌 Focus: Applying deep learning to locally acquired cancer images for accurate, explainable diagnosis and model evaluation.
 📂 Project Overview
 •	Problem: Classify gastric histology images as either benign or malignant
@@ -16,7 +16,7 @@ ________________________________________
 •	Lay foundation for future deployment or Grad-CAM explainability
 ________________________________________
 🖼️ Dataset
-•	✅ Public gastric cancer histology images
+•	✅ Public cancer histology images
 •	🤁 Preprocessed to 224x224 resolution
 •	📁 Directory structure:
  	organized_gastric/
