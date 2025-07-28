@@ -82,11 +82,7 @@ ________________________________________
 📁 Folder Structure
 🗁 gastric-cancer-classification/
 ├── models/
-│   └── *.keras              # Saved models
 ├── visualizations/
 │   └── *.png                # Curves & matrices
-├── scripts/
-│   └── train_*.py           # Training scripts
-├── evaluate_model.py
 ├── requirements.txt
 └── README.md
